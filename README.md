@@ -1,1 +1,1 @@
-App de gifs con React consumiendo Giphy
+App de gifs con React consumiendo la API de Giphy
